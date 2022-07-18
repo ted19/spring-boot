@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    jdbc-url: jdbc:mysql://de-c-my-db.fttinc.kr:19336/433home?&serverTimezone=UTC&autoReconnect=true&allowMultiQueries=true&characterEncoding=UTF-8
+    username: dev433
+    password: 433eoqkr)(!
+    
+logging:
+  config: classpath:log4j2.xml
+
+mybatis:
+  mapper-locations: classpath:mapper/**/*.xml
