@@ -13,5 +13,5 @@ _P.S This tutorial is NOT a Spring Web MVC application, just pure Spring Boot!_
 
 ## 2. How to run this project?
 ```shell
-$ git clone https://github.com/ted19/spring_boot/
+$ git clone https://github.com/ted19/spring-boot/
 ```
